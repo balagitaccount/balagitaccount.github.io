@@ -241,4 +241,15 @@ footer{
          font-size: 30px;
      }
      
+    .logo p {
+        display: inline;
+    }
+    .brand-logo{
+        border-radius: 45%;
+        padding: 10px;
+  
+        }
+    
+     
+     
 }
