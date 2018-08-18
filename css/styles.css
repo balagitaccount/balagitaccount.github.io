@@ -248,8 +248,11 @@ footer{
         border-radius: 45%;
         padding: 10px;
   
-        }
-    
+     }
      
-     
+}
+@media(max-width:450px){
+    .skill-level{
+        font-size: 56%;
+    }
 }
