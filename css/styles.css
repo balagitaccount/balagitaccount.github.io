@@ -249,13 +249,11 @@ footer{
         padding: 10px;
   
      }
-     
-}
-@media(max-width:450px){
-    .skill-level{
+     .skill-level{
         font-size: 56%;
     }
     .progress-bar{
         font-size: 80%;
     }
+
 }
