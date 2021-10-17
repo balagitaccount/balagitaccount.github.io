@@ -201,7 +201,7 @@ h3 > span:hover:before, nav a:hover:before{
 }
 .down-button{
     position: absolute;
-    bottom: 40px;
+    bottom: -9px;
     width:100%;
     text-align: center;
 }
